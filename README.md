@@ -1,32 +1,54 @@
- <h1 align="center">Hi 👋, I'm Moniur Rahman Shimul</h1>
-<h3 align="center">Front-End Web Developer || React.js Developer</h3>
+![Front-End Web Developer || React.js Developer](https://i.ibb.co/1Zk0TJz/github-profile.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moniur121&label=Profile%20views&color=0e75b6&style=flat" alt="moniur121" /> </p>
+### Hi there 👋, I'm Moniur Rahman Shimul
+#### Front-End Web Developer || React.js Developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moniur121" alt="moniur121" /></a> </p>
 
-- 🔭 I’m currently working on [Sale-Hub](https://github.com/Moniur121/SaleHub-client)
+I'm a front-end developer who's working with the latest and most effective technologies. I specialize in working with JavaScript frameworks and love React and Redux. The other front-end technologies I use are Next.js,JQuery,Bootstrap, React-Bootstrap, HTML5,CSS3,SASS, Tailwind-CSS.
 
-- 🌱 I’m currently learning **JavaScript**
+I have build quite a few dashboard/admin panels and other kinds of single-page or multiple-page applications. I'm good at data visualization. If you want your dashboard to render charts, maps, or any other sort of graphical representation of data. I'll be able to help you.
 
-- 👯 I’m looking to collaborate on [github](https://github.com/Moniur121)
+I prefer interesting and challenging projects over those that pay more. Contact me with your idea and I'll be glad to explain to you how we can be achieved this goal.
 
-- 👨‍💻 All of my projects are available at [https://moniur.netlify.app](https://moniur.netlify.app)
+TECHNICAL SKILLS
+• Firm grasp of the JavaScript including ES6+ syntax
+• Strong experience with React.js
+• Redux-Thunk
+• React Hooks
+• Integration with RESTful APIs
+• React Navigation and React Router
+• Experience Multi language Feature
+• Experience with Firebase
+• Basic Experience about unit testing
+• Intermediate Knowledge of Git
+• Basic knowledge of GitLab, GitHub and bitbucket
+• Strong Knowledge of HTML5,CSS3,Bootstrap,Tailwind-CSS,Sass, EcmaScript.
+• Basic Knowledge of Node.js, Express.js, MongoDB.
 
-- 💬 Ask me about **Web Application Developer**
+Thanks
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aEBEFoepq_V84M-ynkMNnhNF4lqnbhz3/view](https://drive.google.com/file/d/1aEBEFoepq_V84M-ynkMNnhNF4lqnbhz3/view)
+Skills: JavaScript / React.js / Express.js / Node.js / Redux / React-Redux / MongoDB Database / Firebase Authentication / HTML5 / CSS3 / SASS / Bootstrap / React-Bootstrap / Tailwind-CSS / CSS-Grid / Stripe payment Getway Integration (free ).
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/moniur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moniur" height="30" width="40" /></a>
-</p>
+- 🔭 I’m currently working on Sale-Hub E-commerce 
+- 🌱 I’m currently learning JavaScript 
+- 👯 I’m looking to collaborate on github 
+- 💬 Ask me about Web Application Developer 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moniur121&show_icons=true&locale=en&layout=compact" alt="moniur121" /></p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Moniur121)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/moniur/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://moniur.netlify.app)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moniur121&show_icons=true&locale=en" alt="moniur121" /></p>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moniur121&" alt="moniur121" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Moniur121)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moniur121)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Moniur121&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Moniur121)  
+
+![GitHub metrics](https://metrics.lecoq.io/Moniur121)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Moniur121)  
+
+![Profile views](https://gpvc.arturio.dev/Moniur121)  
