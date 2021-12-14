@@ -34,19 +34,3 @@ Skills: JavaScript / React.js / Express.js / Node.js / Redux / React-Redux / Mon
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web Application Developer 
 
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Moniur121)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moniur121)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Moniur121&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Moniur121)  
-
-![GitHub metrics](https://metrics.lecoq.io/Moniur121)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Moniur121)  
-
-![Profile views](https://gpvc.arturio.dev/Moniur121)  
